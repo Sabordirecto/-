@@ -1017,7 +1017,7 @@ display: block;
         right: 20px;
     }
     .contenedor-tic{
-        height: 280vh;
+        heigh: 100%;
     }
 
     .card{
